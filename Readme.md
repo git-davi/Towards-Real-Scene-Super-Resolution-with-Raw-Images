@@ -1,10 +1,11 @@
+[**THIS WORK IS NOT MINE, I WOULDN'T GIVE ANY SUPPORT**]
+
 # Towards Real Scene Super-Resolution with Raw Images
 
 This repository is for the rawSR introduced in the following CVPR paper:
 Xiangyu Xu, Yongrui Ma, Wenxiu Sun, "Towards Real Scene Super-Resolution with Raw Images", CVPR 2019
 [[paper]](https://arxiv.org/abs/1905.12156)
 
-(**THIS WORK IS NOT MINE, I'M NOT GIVING ANY SUPPORT**)
 
 ## Contents
 
