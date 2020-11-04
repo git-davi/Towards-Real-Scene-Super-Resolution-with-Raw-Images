@@ -1,4 +1,5 @@
-[**THIS WORK IS NOT MINE, I WOULDN'T GIVE ANY SUPPORT**]
+### [**THIS WORK IS NOT MINE, I WOULDN'T GIVE ANY SUPPORT**]
+### All credits to the real authors!!
 
 # Towards Real Scene Super-Resolution with Raw Images
 
